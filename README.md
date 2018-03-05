@@ -6,7 +6,7 @@ nodejs as a runtime
 ## Generate your project
 
 ```bash
-cookiecutter git@github.com:FabienArcellier/cookiecutter-node-healthcheck.git
+cookiecutter https://github.com/FabienArcellier/cookiecutter-node-healthcheck.git
 ```
 
 ## Installation
