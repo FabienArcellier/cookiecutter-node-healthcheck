@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+const cp = require('child_process');
+
+cp.fork(__dirname + '/../healthcheck/index.js');

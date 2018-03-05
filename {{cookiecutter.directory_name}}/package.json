@@ -1,0 +1,13 @@
+{
+  "name": "{{cookiecutter.domain}}_healthcheck",
+  "version": "1.0.0",
+  "description": "run healthcheck on several url",
+  "scripts": {},
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "mocha": "^5.0.1",
+    "supertest": "^3.0.0"
+  },
+  "devDependencies": {}
+}
